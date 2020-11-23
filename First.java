@@ -4,4 +4,10 @@ class First{
 		System.out.println("This is the very first file");
 	}
 
+	public int factorial()
+	{
+
+	}
+
+
 }
